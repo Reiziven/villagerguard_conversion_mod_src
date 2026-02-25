@@ -1,0 +1,25 @@
+# ===== GRADLE =====
+.gradle/
+build/
+
+# ===== FORGE DEV RUNTIME =====
+run/
+logs/
+
+# ===== INTELLIJ IDEA =====
+.idea/
+*.iml
+out/
+
+# ===== ECLIPSE (SE ABRIR POR LÁ) =====
+.settings/
+.project
+.classpath
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== JAVA =====
+hs_err_pid*
+replay_pid*
